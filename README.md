@@ -10,3 +10,6 @@ I have used the following boards and components:
 - Micro SD card reader
 - Micro USB cable
 - USB-C cable
+
+## Table of Contents
+[CB1 to E3EZ Installation and Mainsail Setup](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CB1%20to%20E3EZ%20Installation%20and%20Mainsail%20Setup.md "CB1 to E3EZ Installation and Mainsail Setup")
