@@ -12,4 +12,5 @@ I have used the following boards and components:
 - USB-C cable
 
 ## Table of Contents
-[CB1 to E3EZ Installation and Mainsail Setup](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CB1%20to%20E3EZ%20Installation%20and%20Mainsail%20Setup.md "CB1 to E3EZ Installation and Mainsail Setup")
+1. [CB1 to E3EZ Installation and Mainsail Setup](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CB1%20to%20E3EZ%20Installation%20and%20Mainsail%20Setup.md "CB1 to E3EZ Installation and Mainsail Setup")
+2. [CAN Bus Setup on CB1](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CAN%20Bus%20Setup%20on%20CB1 "CAN Bus Setup on CB1")
