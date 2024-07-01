@@ -47,6 +47,8 @@ After finishing the writing and verification processes, remove the micro SD card
 
 Now, you are ready to update the **system.cfg** file.
 
+---
+
 #### Updating the system.cfg File
 Connect the micro SD card to the card reader again.
 
@@ -68,6 +70,8 @@ Do the following changes in the file:
 - Save and close the document.
 
 Now, you can connect the micro SD card to the E3EZ board.
+
+---
 
 #### Mainsail Update
 Remove the micro SD card from the computer and put it into the E3EZ’s SOC Card slot.
@@ -96,6 +100,8 @@ It takes a while to update all components. After completing the updates, it disc
 ![](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Images/18.png)
 
 Now, you can create and set the **printer.cfg** file.
+
+---
 
 #### Create and Set the printer.cfg File
 You may have a **printer.cfg** file you have created before or not have created it yet.
@@ -136,3 +142,22 @@ Since we did not connect E3EZ to the printer, you can comment `(Ctrl+/)` the fol
   ![](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Images/27.png)
 
 Click “**Save & Restart**”.
+
+Now, you have created and set the **printer.cfg** file and ready to connect to CB1 with PuTTY.
+
+---
+
+#### Connecting to CB1 with PuTTY
+Install and open [PuTTY](https://www.putty.org/ "PuTTY") on your computer.
+
+Enter the hostname of the E3EZ board with a “.local” suffix.
+In my case, it is “ender3pro.local” since my hostname is “ender3pro” in the **system.cfg** file.\
+![](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Images/28.png)
+
+Since CB1 installed to E3EZ runs the [image](https://github.com/bigtreetech/CB1/releases "CB1 Klipper Kernel") we installed from BIGTREETECH, you need to log in as:
+>User: “biqu”\
+>Password: “biqu”
+
+![](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Images/29.png)
+
+Now, you are connected on CB1 installed to E3EZ from your computer and ready to set Katapult and Klipper on it.
