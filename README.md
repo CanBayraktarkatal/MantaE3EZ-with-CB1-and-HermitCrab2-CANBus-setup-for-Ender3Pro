@@ -13,4 +13,5 @@ I have used the following boards and components:
 
 ## Table of Contents
 1. [CB1 to E3EZ Installation and Mainsail Setup](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CB1%20to%20E3EZ%20Installation%20and%20Mainsail%20Setup.md "CB1 to E3EZ Installation and Mainsail Setup")
-2. [CAN Bus Setup on CB1](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CAN%20Bus%20Setup%20on%20CB1 "CAN Bus Setup on CB1")
+2. [CAN Bus Setup on CB1](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CAN%20Bus%20Setup%20on%20CB1.md "CAN Bus Setup on CB1")
+3. [Connect Hermit Crab V2.0 to E3EZ](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Connect%20Hermit%20Crab%20V2.0%20to%20E3EZ.md "Connect Hermit Crab V2.0 to E3EZ")
