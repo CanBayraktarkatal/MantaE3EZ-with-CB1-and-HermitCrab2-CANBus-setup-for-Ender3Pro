@@ -166,4 +166,4 @@ Since CB1 installed to E3EZ runs the [image](https://github.com/bigtreetech/CB1/
 
 ![](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Images/29.png)
 
-:arrow_forward: Now, you are connected to the CB1 installed on the E3EZ from your computer and ready to set Katapult and Klipper in the next [part](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CAN%20Bus%20Setup%20on%20CB1 "CAN Bus Setup on CB1").
+:arrow_forward: Now, you are connected to the CB1 installed on the E3EZ from your computer and ready to set Katapult and Klipper in the next [part](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/CAN%20Bus%20Setup%20on%20CB1.md "CAN Bus Setup on CB1").
