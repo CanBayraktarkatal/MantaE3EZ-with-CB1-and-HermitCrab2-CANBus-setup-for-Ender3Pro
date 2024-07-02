@@ -171,5 +171,5 @@ python3 ~/katapult/scripts/flash_can.py -q
 ```
 ![](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Images/50.png)
 
-:arrow_forward: You will use that UUID in **printer.cfg** file for **canbus_uuid** reference in the next part.
+:arrow_forward: You will use that UUID in **printer.cfg** file for **canbus_uuid** reference in the next [part](https://github.com/CanBayraktarkatal/MantaE3EZ-with-CB1-and-HermitCrab2-CANBus-setup-for-Ender3Pro/blob/main/Connect%20Hermit%20Crab%20V2.0%20to%20E3EZ.md "Connect Hermit Crab V2.0 to E3EZ").
 
